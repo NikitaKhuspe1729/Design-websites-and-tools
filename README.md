@@ -5,13 +5,13 @@ List of websites and tools with the ways they can be used.
 
 # WEBSITES
 # Free images, videos, PSD, AI, SVG
-Used for 
+Used for   
 ✔️ Designs    
-✔️ Wallpapers <br>
-✔️ Background images
-Websites:
+✔️ Wallpapers    
+✔️ Background images   
+Websites:           
 🌐
-🌐
+🌐               
 ︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵
 
 
