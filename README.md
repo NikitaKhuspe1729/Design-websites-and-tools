@@ -2,8 +2,8 @@
 List of websites and tools with the ways they can be used. 
 # Tools
 **FIGMA** <br>
-🌐 https://www.figma.com/
-Used for
+🌐 https://www.figma.com/ <br>
+Used for <br>
 ✔️ Social media designing <br>
 ✔️ UI designing <br>
 ✔️ Wireframing <br>
@@ -19,8 +19,8 @@ Used for
 ✔️ Mockups <br>
 
 **CANVA** <br>
-🌐 https://www.canva.com/en_in/
-Used for
+🌐 https://www.canva.com/en_in/ <br>
+Used for <br>
 ✔️ Social media designing <br>
 ✔️ UI designing <br>
 ✔️ Product designing <br>
