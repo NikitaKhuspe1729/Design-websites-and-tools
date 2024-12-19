@@ -43,8 +43,6 @@ Websites: <br>
 🌐 https://www.freepik.com/ <br>
 🌐 https://unsplash.com/ <br>
 🌐 https://www.pexels.com/ <br>
-︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵
-
 
 # Bullet Points or symbols
 
