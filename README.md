@@ -40,8 +40,9 @@ Used for   <br>
 ✔️ Wallpapers <br>
 ✔️ Background images <br>
 Websites: <br>   
-🌐<br>
-🌐<br>
+🌐 https://www.freepik.com/ <br>
+🌐 https://unsplash.com/ <br>
+🌐 https://www.pexels.com/ <br>
 ︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵︵‿︵‿︵‿︵
 
 
