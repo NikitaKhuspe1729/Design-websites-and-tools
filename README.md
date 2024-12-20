@@ -17,7 +17,11 @@ Used for <br>
 ✔️ Infographic design <br>
 ✔️ Badge design <br>
 ✔️ Mockups <br>
-
+**FRAMER** <br>
+🌐 https://www.framer.com/ <br>
+Used for <br>
+✔️ UI development <br>
+✔️ Front-end development + responsiveness <br>
 **CANVA** <br>
 🌐 https://www.canva.com/en_in/ <br>
 Used for <br>
