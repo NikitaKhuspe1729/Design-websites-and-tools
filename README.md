@@ -50,5 +50,12 @@ Websites: <br>
 
 # Bullet Points or symbols
 
-🌐 https://www.symbolcopy.com/     
+🌐 https://www.symbolcopy.com/ <br>
 🌐 https://emojicombos.com/website <br>
+# PNG
+🌐 https://www.cleanpng.com/ <br>
+🌐 https://pixabay.com/ <br>
+
+
+# Icons 
+🌐 https://www.flaticon.com/ <br>
