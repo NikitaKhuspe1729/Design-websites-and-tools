@@ -50,6 +50,7 @@ Websites: <br>
 🌐 https://pixabay.com/ <br>
 🌐 https://publicdomainvectors.org/ <br>
 🌐 https://pixelied.com/ <br>
+https://www.creativefabrica.com/ <br>
 
 
 # Bullet Points or symbols
@@ -70,7 +71,8 @@ Websites: <br>
 🌐 https://gifer.com/en/YMXw#google_vignette <br>
 
 # Fonts
-🌐 https://www.1001fonts.com/search.html?search=cereal
+🌐 https://www.1001fonts.com/search.html?search=cereal <br>
+https://www.creativefabrica.com/ <br>
 
 # Voice/Audio
 🌐 https://elevenlabs.io/app/speech-synthesis/text-to-speech
