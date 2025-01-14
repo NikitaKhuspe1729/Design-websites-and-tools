@@ -59,3 +59,6 @@ Websites: <br>
 
 # Icons 
 🌐 https://www.flaticon.com/ <br>
+
+# GIFs
+🌐 https://gifer.com/en/YMXw#google_vignette
