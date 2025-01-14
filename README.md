@@ -47,18 +47,23 @@ Websites: <br>
 🌐 https://www.freepik.com/ <br>
 🌐 https://unsplash.com/ <br>
 🌐 https://www.pexels.com/ <br>
+🌐 https://pixabay.com/ <br>
+🌐 https://publicdomainvectors.org/ <br>
+🌐 https://pixelied.com/ <br>
+
 
 # Bullet Points or symbols
-
 🌐 https://www.symbolcopy.com/ <br>
 🌐 https://emojicombos.com/website <br>
+
 # PNG
 🌐 https://www.cleanpng.com/ <br>
 🌐 https://pixabay.com/ <br>
 
 
-# Icons 
+# Icons
 🌐 https://www.flaticon.com/ <br>
+🌐 https://www.reshot.com/ <br>
 
 # GIFs
 🌐 https://gifer.com/en/YMXw#google_vignette
