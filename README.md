@@ -68,3 +68,6 @@ Websites: <br>
 
 # GIFs
 🌐 https://gifer.com/en/YMXw#google_vignette <br>
+
+# Fonts
+🌐 https://www.1001fonts.com/search.html?search=cereal
