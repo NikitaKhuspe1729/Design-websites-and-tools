@@ -76,6 +76,7 @@ Websites: <br>
 # Fonts
 🌐 https://www.1001fonts.com/search.html?search=cereal <br>
 🌐 https://www.creativefabrica.com/ <br>
+🌐 https://www.fontbrief.com/ <br>
 
 # Voice/Audio
 🌐 https://elevenlabs.io/app/speech-synthesis/text-to-speech
