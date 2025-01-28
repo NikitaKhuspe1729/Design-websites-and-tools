@@ -53,6 +53,9 @@ Used for   <br>
 ✔️ Designs <br>
 ✔️ Wallpapers <br>
 ✔️ Background images <br>
+✔️ Youtube shorts & Instagram reels <br>
+
+
 Websites: <br>   
 🌐 https://www.freepik.com/ <br>
 🌐 https://unsplash.com/ <br>
@@ -63,6 +66,7 @@ Websites: <br>
 🌐 https://www.creativefabrica.com/ <br>
 🌐 https://freesvgplanet.com/ <br>
 🌐 https://freesvg.org/ <br>
+🌐 https://mixkit.co/ <br>
 
 
 
