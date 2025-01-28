@@ -1,12 +1,7 @@
 # Design-websites-and-tools
 List of websites and tools with the ways they can be used. 
-# Websites for design templates
-🌐 https://canva.com <br>
-🌐 https://studio.polotno.com/ <br>
-🌐 https://desygner.com <br>
-🌐 https://studio.creativefabrica.com <br>
-# Tools
 
+# Tools
 **FIGMA** <br>
 🌐 https://www.figma.com/ <br>
 Used for <br>
@@ -23,11 +18,13 @@ Used for <br>
 ✔️ Infographic design <br>
 ✔️ Badge design <br>
 ✔️ Mockups <br>
+
 **FRAMER** <br>
 🌐 https://www.framer.com/ <br>
 Used for <br>
 ✔️ UI development <br>
 ✔️ Front-end development + responsiveness <br>
+
 **CANVA** <br>
 🌐 https://www.canva.com/en_in/ <br>
 Used for <br>
@@ -46,6 +43,11 @@ Used for <br>
 # WEBSITES
 # Best fit
 🌐 https://clipdrop.co/?from=meta
+# Design templates
+🌐 https://canva.com <br>
+🌐 https://studio.polotno.com/ <br>
+🌐 https://desygner.com <br>
+🌐 https://studio.creativefabrica.com <br>
 # Free images, videos, PSD, AI, SVG
 Used for   <br>
 ✔️ Designs <br>
