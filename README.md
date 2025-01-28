@@ -89,4 +89,6 @@ Websites: <br>
 🌐 https://elevenlabs.io/app/speech-synthesis/text-to-speech
 
 # AI generated website UI
-🌐 https://www.dora.run
+🌐 https://www.dora.run <br>
+# 2D animations
+🌐 https://new.express.adobe.com/tools/animate-from-audio
