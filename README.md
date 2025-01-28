@@ -1,8 +1,10 @@
 # Design-websites-and-tools
 List of websites and tools with the ways they can be used. 
 # Websites for design templates
-🌐 https://studio.polotno.com/
-🌐 
+🌐 https://studio.polotno.com/ <br>
+🌐 https://desygner.com <br>
+🌐 https://canva.com <br>
+
 # Tools
 
 **FIGMA** <br>
