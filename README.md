@@ -61,6 +61,7 @@ Websites: <br>
 🌐 https://publicdomainvectors.org/ <br>
 🌐 https://pixelied.com/ <br>
 🌐 https://www.creativefabrica.com/ <br>
+🌐 https://freesvgplanet.com/ <br>
 
 
 # Bullet Points or symbols
