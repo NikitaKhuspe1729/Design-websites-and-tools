@@ -48,7 +48,7 @@ Used for <br>
 🌐 https://studio.polotno.com/ <br>
 🌐 https://desygner.com <br>
 🌐 https://studio.creativefabrica.com <br>
-🌐 https://www.postermywall.com <br>
+🌐 https://postermywall.com <br>
 
 # Free images, videos, PSD, AI, SVG
 Used for   <br>
