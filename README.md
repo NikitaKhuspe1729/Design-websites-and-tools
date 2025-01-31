@@ -43,6 +43,7 @@ Used for <br>
 # WEBSITES
 # Best fit
 🌐 https://clipdrop.co/?from=meta
+🌐 https://endlesstools.io/  <br>
 # Design templates
 🌐 https://canva.com <br>
 🌐 https://studio.polotno.com/ <br>
@@ -50,6 +51,8 @@ Used for <br>
 🌐 https://studio.creativefabrica.com <br>
 🌐 https://postermywall.com <br>
 🌐 https://elements.envato.com/ <br>
+🌐 https://www.seesaw.website/ <br>
+
 # Free images, videos, PSD, AI, SVG
 Used for   <br>
 ✔️ Designs <br>
@@ -104,4 +107,7 @@ Websites: <br>
 🌐 https://www.dora.run <br>
 
 # 2D animations
-🌐 https://new.express.adobe.com/tools/animate-from-audio
+🌐 https://new.express.adobe.com/tools/animate-from-audio <br>
+
+# Proper layouts
+🌐 https://bentogrids.com/
