@@ -4,6 +4,7 @@ List of websites and tools with the ways they can be used.
 # Tools
 **FIGMA** <br>
 🌐 https://www.figma.com/ <br>
+🌐 https://bestfigmaplugins.com/ <br>
 Used for <br>
 ✔️ Social media designing <br>
 ✔️ UI designing <br>
