@@ -120,3 +120,8 @@ Websites: <br>
 
 # Proper layouts
 🌐 https://bentogrids.com/
+# Colors
+🌐 https://colourcontrast.cc/ <br>
+🌐 https://coolors.com/ <br>
+🌐 https://colormagic.app/ <br>
+🌐 https://colorhunt.co/ <br>
