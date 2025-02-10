@@ -103,6 +103,8 @@ Websites: <br>
 🌐 https://www.1001fonts.com/search.html?search=cereal <br>
 🌐 https://www.creativefabrica.com/ <br>
 🌐 https://www.fontbrief.com/ <br>
+🌐 https://typeverything.com/ <br>
+
 
 # Voice/Audio
 🌐 https://elevenlabs.io/app/speech-synthesis/text-to-speech
