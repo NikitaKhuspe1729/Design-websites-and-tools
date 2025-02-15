@@ -108,6 +108,8 @@ Websites: <br>
 # Mockups
 🌐 https://provisual.app/ <br>
 
+#  Textures
+🌐 https://texturelabs.com/lander <br>
 
 # Voice/Audio
 🌐 https://elevenlabs.io/app/speech-synthesis/text-to-speech
