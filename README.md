@@ -55,6 +55,7 @@ Used for <br>
 🌐 https://postermywall.com <br>
 🌐 https://elements.envato.com/ <br>
 🌐 https://www.seesaw.website/ <br>
+🌐 https://designwizard.com <br>
 
 # Free images, videos, PSD, AI, SVG
 Used for   <br>
