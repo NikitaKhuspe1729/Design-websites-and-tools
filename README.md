@@ -46,7 +46,7 @@ Used for <br>
 🌐 https://clipdrop.co/?from=meta <br>
 🌐 https://endlesstools.io/  <br>
 🌐 https://www.nocodesupply.co/  <br>
-
+🌐 https://elements.envato.com/ <br>
 # Design templates
 🌐 https://canva.com <br>
 🌐 https://studio.polotno.com/ <br>
@@ -110,6 +110,7 @@ Websites: <br>
 
 #  Textures
 🌐 https://texturelabs.com/lander <br>
+🌐 https://elements.envato.com/ <br>
 
 # Voice/Audio
 🌐 https://elevenlabs.io/app/speech-synthesis/text-to-speech
