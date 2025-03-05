@@ -119,11 +119,15 @@ Websites: <br>
 # AI generated website UI
 🌐 https://www.dora.run <br>
 
+# AI image or video geenerator 
+🌐 https://playground.com/ <br>
+🌐 https://deepdreamgenerator.com/ <br>
 # 2D animations
 🌐 https://new.express.adobe.com/tools/animate-from-audio <br>
 
 # Proper layouts
 🌐 https://bentogrids.com/
+
 # Colors
 🌐 https://colourcontrast.cc/ <br>
 🌐 https://coolors.com/ <br>
